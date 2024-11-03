@@ -4,10 +4,10 @@ zip="url.to.wizard"
 
 name="Example Build 1"
 version="1.0"
-url="url.to.build"
-minor="https://ddownload.com/tza7da9coq77/koditest.zip"
-gui="https://gofile.io/d/xQJ405"
-kodi="17.6"
+url=https://ddownload.com/tza7da9coq77/koditest.zip
+minor=https://ddownload.com/tza7da9coq77/koditest.zip
+gui=https://ddownload.com/tza7da9coq77/koditest.zip
+kodi="Test"
 theme="url.to.themes"
 icon="http://"
 fanart="http://"
