@@ -1,5 +1,5 @@
-name="----- SERVER 1 -----"
-version=" "
+name="plugin.program.adriwizard"
+version="1.0"
 url="https://ddownload.com/tza7da9coq77/koditest.zip"
 gui="http://"
 kodi="21.0"
